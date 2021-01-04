@@ -1,0 +1,32 @@
+.title {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px 0px;
+  }
+  
+  .counterWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 140px;
+    margin: 5px 0px;
+  }
+  
+  .incrementBtn, .decrementBtn {
+    background-color: white;
+    height: 20px;
+    width: 50px;
+    border: 1px solid gold;
+    border-radius: 10px;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  }
+  
+  .counter {
+    font-size: 10px;
+  font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  }

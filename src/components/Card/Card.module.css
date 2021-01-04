@@ -1,0 +1,23 @@
+.cardWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .cardImage {
+    display: block;
+    width: 140px;
+    height: 100px;
+  }
+  
+  .cardTitle {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .cardDesk {
+    text-align: center;
+    width: 200px;
+  }
